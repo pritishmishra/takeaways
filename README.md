@@ -19,3 +19,10 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
   - 1. Consistency: Every read receives the most recent write or an error.
   - 2. Availability: Every request receives a (non-error) response – without guarantee that it contains the most recent write
   - [CAP Theorem Wiki](https://en.wikipedia.org/wiki/CAP_theorem)
+
+# Dig Deeper?
+- Cassandra as NoSQL solution
+  - Concepts of NoSQL
+  - How Cassandra works?
+  - How can it be integrated for big data use-cases?
+  - Pros & Cons
