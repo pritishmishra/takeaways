@@ -8,6 +8,9 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
 ## Ensuring video streaming standards in HTML5
 [HTML5 and Video Streaming](https://medium.com/netflix-techblog/html5-and-video-streaming-a3563b19eb02)
 
+## Netflix use of 3 NoSQL database solutions simultaneously
+[Leveraging Amazon SimpleDB, HBase, Cassandra all at once](https://medium.com/netflix-techblog/nosql-at-netflix-e937b660b4c)
+
 # P.S.:
 - ## What are Chatty APIs?
   - [Addressing “chattiness” in a REST API](http://stackoverflow.com/questions/18900741/addressing-chattiness-in-a-rest-api)
