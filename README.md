@@ -11,6 +11,10 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
 ## Netflix use of 3 NoSQL database solutions simultaneously
 [Leveraging Amazon SimpleDB, HBase, Cassandra all at once](https://medium.com/netflix-techblog/nosql-at-netflix-e937b660b4c)
 
+## Partial Response & Partial Update
+- [Making APIs Faster: Introducing Partial Response and Partial Update](http://googlecode.blogspot.de/2010/03/making-apis-faster-introducing-partial.html)
+- Conceptualizing the API as a database. A database can handle incredible variability in requests through SQL. The API should also be able to answer questions with the same degree of variability that SQL can for a database. e.g. [YQL](https://developer.yahoo.com/yql/)
+
 # P.S.:
 - ## What are Chatty APIs?
   - [Addressing “chattiness” in a REST API](http://stackoverflow.com/questions/18900741/addressing-chattiness-in-a-rest-api)
