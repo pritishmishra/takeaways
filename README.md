@@ -15,6 +15,12 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
 - [Making APIs Faster: Introducing Partial Response and Partial Update](http://googlecode.blogspot.de/2010/03/making-apis-faster-introducing-partial.html)
 - Conceptualizing the API as a database. A database can handle incredible variability in requests through SQL. The API should also be able to answer questions with the same degree of variability that SQL can for a database. e.g. [YQL](https://developer.yahoo.com/yql/)
 
+## No Silver Bullet
+- [No Silver Bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet)
+- Brooks distinguishes between two different types of complexity: **accidental complexity** and **essential complexity**. Accidental complexity relates to problems which engineers create and can fix; for example, the details of writing and optimizing assembly code or the delays caused by batch processing. Essential complexity is caused by the problem to be solved, and nothing can remove it; if users want a program to do 30 different things, then those 30 things are essential and the program must do those 30 different things.
+
+
+
 # P.S.:
 - ## What are Chatty APIs?
   - [Addressing “chattiness” in a REST API](http://stackoverflow.com/questions/18900741/addressing-chattiness-in-a-rest-api)
