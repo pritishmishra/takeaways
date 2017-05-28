@@ -23,7 +23,7 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
 
 
 
-# P.S.:
+## P.S.:
 - ## What are Chatty APIs?
   - [Addressing “chattiness” in a REST API](http://stackoverflow.com/questions/18900741/addressing-chattiness-in-a-rest-api)
 - ## CAP Theorem
@@ -32,9 +32,15 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
   - 2. Availability: Every request receives a (non-error) response – without guarantee that it contains the most recent write
   - [CAP Theorem Wiki](https://en.wikipedia.org/wiki/CAP_theorem)
 
-# Dig Deeper?
+## Dig Deeper?
 - Cassandra as NoSQL solution
   - Concepts of NoSQL
   - How Cassandra works?
   - How can it be integrated for big data use-cases?
   - Pros & Cons
+
+
+# Competitive Programming
+I am learning the fundamentals of Competitive Programming. I will be sharing some of the resources that I read and followed.
+
+[How do people solve HackerRank contests so fast? - Quora](https://www.quora.com/How-do-people-solve-HackerRank-contests-so-fast/answer/Ana-Echavarria?srid=2c8S)
