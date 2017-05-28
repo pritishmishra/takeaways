@@ -44,3 +44,8 @@ Good Read: :+1: [5 Lessons We’ve Learned Using AWS](https://medium.com/netflix
 I am learning the fundamentals of Competitive Programming. I will be sharing some of the resources that I read and followed.
 
 [How do people solve HackerRank contests so fast? - Quora](https://www.quora.com/How-do-people-solve-HackerRank-contests-so-fast/answer/Ana-Echavarria?srid=2c8S)
+
+# Misc
+## Data Storage in Distributed Computing
+:+1:[How Your Data is Stored, or, The Laws of the Imaginary Greeks](https://hackernoon.com/how-your-data-is-stored-or-the-laws-of-the-imaginary-greeks-54c569c17a49): An amazing geeky story describing the whole data-storage process (eventual/strong consistency, Quorum decision, Master election, etc.)
+A really long article, but worth your time if you need to understand/revisit the concepts in an interesting story manner.
