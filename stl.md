@@ -24,6 +24,21 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
 
 - [Deep Dive/Reference](http://www.sgi.com/tech/stl/Container.html)
 
+### Sequence Containers
+
+  - ### [Vector](#vector)
+    - Vectors are sequence containers representing arrays that can change in size.
+    - A vector is a Sequence that supports random access to elements, constant time insertion and removal of elements at the end, and linear time insertion and removal of elements at the beginning or in the middle. 
+    - The number of elements in a vector may vary dynamically; memory management is automatic. 
+    - Vector is the simplest of the STL container classes, and in many cases the most efficient.
+    - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/Vector.html),  [Reference 2](http://www.cplusplus.com/reference/vector/vector/)
+
+- ### Deque
+
+- ### List
+
+### Associative Containers
+
 ## [Functional](#functional)
 
 ## [Iterators](#iterators)
