@@ -4,10 +4,10 @@ The Standard Template Library, or STL, is a C++ library of container classes, al
 
 It provides four components called [algorithms](#algorithms), [containers](#containers), [functional](#functional), and [iterators](#iterators).
 
-# [Algorithms](#algorithms)
+## [Algorithms](#algorithms)
 
-# [Containers](#Containers)
+## [Containers](#containers)
 
-# [Functional](#Functional)
+## [Functional](#functional)
 
-# [Iterators](#Iterators)
+## [Iterators](#iterators)
