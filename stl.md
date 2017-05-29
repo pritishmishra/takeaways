@@ -47,6 +47,19 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/List.html), [Reference 2](http://www.cplusplus.com/reference/list/list/)
 
 ### Associative Containers
+ - In computing, associative containers refer to a group of class templates in the standard library of the C++ programming language that implement ordered associative arrays.
+ - Being templates, they can be used to store arbitrary elements, such as integers or custom classes. 
+ - The following containers are defined in the current revision of the C++ standard: set, map, multiset, multimap.
+ - **Associative arrays:** is an abstract data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection.
+ - **Characteristics:**
+    - **Key uniqueness:** In `map` and `set` each key must be unique. `multimap` and `multiset` do not have this restriction.
+    - **Element composition:** In `map` and `multimap` each element is composed from a key and a mapped value. In `set` and `multiset` each element is key; there are no mapped values.
+    - **Element ordering:** Elements follow a strict weak ordering
+  - e.g. The following code demonstrates how to use the `map<string, int>` to count occurrences of words. It uses the word as the key and the count as the value.
+  - ![Example_map_usage_image]
+  ()
+  
+
 
 ## [Functional](#functional)
 
