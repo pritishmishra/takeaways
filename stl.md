@@ -34,9 +34,13 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/Vector.html),  [Reference 2](http://www.cplusplus.com/reference/vector/vector/)
     - [**Implementation Example**](http://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm)
 
-- ### Deque
+  - ### [Deque](#deque)
+    - A deque is very much like a vector: like vector, it is a sequence that supports random access to elements, constant time insertion and removal of elements at the end of the sequence, and linear time insertion and removal of elements in the middle.
+    - The main way in which deque differs from vector is that deque also supports constant time insertion and removal of elements at the beginning of the sequence. 
+    - Additionally, deque does not have any member functions analogous to vector's capacity() and reserve(), and does not provide any of the guarantees on iterator validity that are associated with those member functions.
+    - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/Deque.html#2), [Reference 2](http://www.cplusplus.com/reference/deque/deque/)
 
-- ### List
+  - ### List
 
 ### Associative Containers
 
