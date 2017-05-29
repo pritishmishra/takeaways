@@ -40,7 +40,11 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - Additionally, deque does not have any member functions analogous to vector's capacity() and reserve(), and does not provide any of the guarantees on iterator validity that are associated with those member functions.
     - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/Deque.html#2), [Reference 2](http://www.cplusplus.com/reference/deque/deque/)
 
-  - ### List
+  - ### [List](#list)
+    - A list is a doubly linked list. That is, it is a Sequence that supports both forward and backward traversal, and (amortized) constant time insertion and removal of elements at the beginning or the end, or in the middle.
+    - Lists are sequence containers that allow constant time insert and erase operations anywhere within the sequence, and iteration in both directions.
+    - Compared to other base standard sequence containers (array, vector and deque), lists perform generally better in inserting, extracting and moving elements in any position within the container for which an iterator has already been obtained, and therefore also in algorithms that make intensive use of these, like **sorting algorithms**.
+    - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/List.html), [Reference 2](http://www.cplusplus.com/reference/list/list/)
 
 ### Associative Containers
 
