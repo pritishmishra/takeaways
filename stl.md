@@ -7,6 +7,7 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
 ## [Algorithms](#algorithms)
 
 ## [Containers](#containers)
+- They store objects in an organized way that follows specific access rules. The size of the container depends on the number of objects (elements) it contains.
 
 ## [Functional](#functional)
 
