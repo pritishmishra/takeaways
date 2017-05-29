@@ -32,6 +32,7 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - The number of elements in a vector may vary dynamically; memory management is automatic. 
     - Vector is the simplest of the STL container classes, and in many cases the most efficient.
     - **Deep Dive/Reference:** [Reference 1](http://www.sgi.com/tech/stl/Vector.html),  [Reference 2](http://www.cplusplus.com/reference/vector/vector/)
+    - [**Implementation Example**](http://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm)
 
 - ### Deque
 
