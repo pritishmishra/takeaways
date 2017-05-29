@@ -45,7 +45,7 @@ I am learning the fundamentals of Competitive Programming. I will be sharing som
 
 [How do people solve HackerRank contests so fast? - Quora](https://www.quora.com/How-do-people-solve-HackerRank-contests-so-fast/answer/Ana-Echavarria?srid=2c8S)
 
-[Standard Template Library (STL)]()
+[Standard Template Library (STL)](https://github.com/pritishmishra/takeaways/blob/master/stl.md)
 
 # Misc
 ## Data Storage in Distributed Computing
