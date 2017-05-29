@@ -56,8 +56,7 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - **Element composition:** In `map` and `multimap` each element is composed from a key and a mapped value. In `set` and `multiset` each element is key; there are no mapped values.
     - **Element ordering:** Elements follow a strict weak ordering
   - e.g. The following code demonstrates how to use the `map<string, int>` to count occurrences of words. It uses the word as the key and the count as the value.
-  - ![Example_map_usage_image]
-  ()
+  - ![Example_map_usage_image](https://github.com/pritishmishra/takeaways/blob/master/images/img1.png)
   
 
 
