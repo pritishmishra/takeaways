@@ -57,12 +57,20 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - **Element ordering:** Elements follow a strict weak ordering
   - **e.g.** The following code demonstrates how to use the `map<string, int>` to count occurrences of words. It uses the word as the key and the count as the value.
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img1.png" height="300" width="500"/>
-  - **e.g.** This illustrates inserting elements into a map using the insert function and searching for a key using a map iterator and the find function:
+  -**e.g.** This illustrates inserting elements into a map using the insert function and searching for a key using a map iterator and the find function:
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img2.png" height="600" width="700"/>
-  - **e.g.**  This is an example of looping through a map to display all keys and values using iterators:
+  -**e.g.** This is an example of looping through a map to display all keys and values using iterators:
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img3.png" height="400" width="600"/>
 
 - ### [Set](#set)
+  - Sets are containers that store unique elements following a specific order.
+  - In a set, the value of an element also identifies it (the value is itself the key, of type T), and each value must be unique. 
+  - The value of the elements in a set cannot be modified once in the container (the elements are always const), but they can be inserted or removed from the container.
+  - Internally, the elements in a set are always sorted following a specific strict weak ordering criterion indicated by its internal comparison object (of type Compare).
+  - Set and multiset are particularly well suited to the set algorithms includes, set_union, set_intersection, set_difference, and set_symmetric_difference. 
+  - The reason for this is twofold. 
+    - First, the set algorithms require their arguments to be sorted ranges, and, since set and multiset are Sorted Associative Containers, their elements are always sorted in ascending order. 
+    - Second, the output range of these algorithms is always sorted, and inserting a sorted range into a set or multiset is a fast operation: the Unique Sorted Associative Container and Multiple Sorted Associative Container requirements guarantee that inserting a range takes only linear time if the range is already sorted.
 - ### [Map](#map)
 - ### [Multiset](#multiset)
 - ### [Multimap](#multimap)
