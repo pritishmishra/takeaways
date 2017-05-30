@@ -56,16 +56,16 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - **Element composition:** In `map` and `multimap` each element is composed from a key and a mapped value. In `set` and `multiset` each element is key; there are no mapped values.
     - **Element ordering:** Elements follow a strict weak ordering
   - **e.g.** The following code demonstrates how to use the `map<string, int>` to count occurrences of words. It uses the word as the key and the count as the value.
-    <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img1.png" height="300" width="500"/>
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img1.png" height="300" width="500"/>
   - **e.g.** This illustrates inserting elements into a map using the insert function and searching for a key using a map iterator and the find function:
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img2.png" height="600" width="700"/>
   - **e.g.**  This is an example of looping through a map to display all keys and values using iterators:
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img3.png" height="400" width="600"/>
 
-- Set
-- Map
-- Multiset
-- Multimap
+- ### [Set](#set)
+- ### [Map](#map)
+- ### [Multiset](#multiset)
+- ### [Multimap](#multimap)
 ## [Functional](#functional)
 
 ## [Iterators](#iterators)
