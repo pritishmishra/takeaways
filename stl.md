@@ -57,9 +57,9 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
     - **Element ordering:** Elements follow a strict weak ordering
   - **e.g.** The following code demonstrates how to use the `map<string, int>` to count occurrences of words. It uses the word as the key and the count as the value.
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img1.png" height="300" width="500"/>
-  -**e.g.** This illustrates inserting elements into a map using the insert function and searching for a key using a map iterator and the find function:
+  **e.g.** This illustrates inserting elements into a map using the insert function and searching for a key using a map iterator and the find function:
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img2.png" height="600" width="700"/>
-  -**e.g.** This is an example of looping through a map to display all keys and values using iterators:
+  **e.g.** This is an example of looping through a map to display all keys and values using iterators:
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img3.png" height="400" width="600"/>
 
 - ### [Set](#set)
@@ -71,9 +71,30 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
   - The reason for this is twofold. 
     - First, the set algorithms require their arguments to be sorted ranges, and, since set and multiset are Sorted Associative Containers, their elements are always sorted in ascending order. 
     - Second, the output range of these algorithms is always sorted, and inserting a sorted range into a set or multiset is a fast operation: the Unique Sorted Associative Container and Multiple Sorted Associative Container requirements guarantee that inserting a range takes only linear time if the range is already sorted.
+  - **Deep Dive:** [Reference 1](http://www.sgi.com/tech/stl/set.html)/[Reference 2](http://www.cplusplus.com/reference/set/set/)
+  
 - ### [Map](#map)
+  - Maps are associative containers that store elements formed by a combination of a key value and a mapped value, following a specific order.
+  - In a map, the key values are generally used to sort and uniquely identify the elements, while the mapped values store the content associated to this key. 
+  - The types of key and mapped value may differ, and are grouped together in member type value_type, which is a pair type combining both:
+  `typedef pair<const Key, T> value_type;`
+  - Internally, the elements in a map are always sorted by its key following a specific strict weak ordering criterion indicated by its internal comparison object (of type Compare).
+  - The mapped values in a map can be accessed directly by their corresponding key using the bracket operator ((operator[]).
+  - **Deep Dive:** [Reference 1](http://www.sgi.com/tech/stl/Map.html)/[Reference 2](http://www.cplusplus.com/reference/map/map/)
+
 - ### [Multiset](#multiset)
+  - **Multiple-key set**
+  - Multisets are containers that store elements following a specific order, and where multiple elements can have equivalent values.
+  - In a multiset, the value of an element also identifies it (the value is itself the key, of type T). 
+  - The value of the elements in a multiset cannot be modified once in the container (the elements are always const), but they can be inserted or removed from the container.
+  - Internally, the elements in a multiset are always sorted following a specific strict weak ordering criterion indicated by its internal comparison object (of type Compare).
+  - **Deep Dive:** [Reference 1](http://www.sgi.com/tech/stl/multiset.html)/[Reference 2](http://www.cplusplus.com/reference/set/multiset/)
 - ### [Multimap](#multimap)
+  - Multimaps are associative containers that store elements formed by a combination of a key value and a mapped value, following a specific order, and where multiple elements can have equivalent keys.
+  - In a multimap, the key values are generally used to sort and uniquely identify the elements, while the mapped values store the content associated to this key. 
+  - The types of key and mapped value may differ, and are grouped together in member type value_type, which is a pair type combining both.
+  - **Deep Dive:** [Reference 1](http://www.sgi.com/tech/stl/Multimap.html)/[Reference 2](http://www.cplusplus.com/reference/map/multimap/)
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img4.png" height="400" width="600"/>
 ## [Functional](#functional)
 
 ## [Iterators](#iterators)
