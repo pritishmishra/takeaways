@@ -98,3 +98,15 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
 ## [Functional](#functional)
 
 ## [Iterators](#iterators)
+- The most obvious form of iterator is a pointer: A pointer can point to elements in an array, and can iterate through them using the increment operator (++). 
+- But other kinds of iterators are possible. For example, each container type (such as a list) has a specific iterator type designed to iterate through its elements.
+- Notice that while a pointer is a form of iterator, not all iterators have the same functionality of pointers
+- ### [Input Iterator](#input)
+  - Input iterators are iterators that can be used in sequential input operations, where each value pointed by the iterator is read only once and then the iterator is incremented.
+  - All forward, bidirectional and random-access iterators are also valid input iterators.
+  - Algorithms requiring input iterators should be single-pass input algorithms: algorithms pass through an iterator position once at most.
+
+- ### [Forward Iterator](#forward)
+- ### [Bi-directional Iterator](#bi-directional)
+- ### [Random-access Iterator](#random-access)
+- ### [Output Iterator](#output)
