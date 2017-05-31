@@ -128,12 +128,12 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
   - Random-access iterators are the most complete iterators in terms of functionality. 
   - All pointer types are also valid random-access iterators.
   - **Properties:**
-  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img9.png" height="200" width="600"/>
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img8.png" height="300" width="600"/>
 
 - ### [Output Iterator](#output)
   - Output iterators are iterators that can be used in sequential output operations, where each element pointed by the iterator is written a value only once and then the iterator is incremented.
   - All forward, bidirectional and random-access iterators that are not constant iterators are also valid output iterators.
   - Algorithms requiring output iterators should be single-pass output algorithms: each iterator position is dereferenced once at most.
   - **Properties:**
-  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img8.png" height="200" width="600"/>
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img9.png" height="200" width="600"/>
   
