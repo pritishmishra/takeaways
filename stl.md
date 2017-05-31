@@ -105,8 +105,35 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
   - Input iterators are iterators that can be used in sequential input operations, where each value pointed by the iterator is read only once and then the iterator is incremented.
   - All forward, bidirectional and random-access iterators are also valid input iterators.
   - Algorithms requiring input iterators should be single-pass input algorithms: algorithms pass through an iterator position once at most.
-
+  - **Properties:**
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img5.png" height="200" width="600"/>
+  
 - ### [Forward Iterator](#forward)
+  - Forward iterators are iterators that can be used to access the sequence of elements in a range in the direction that goes from its beginning towards its end.
+  - Performing operations on a forward iterator that is dereferenceable never makes its iterator value non-dereferenceable. 
+  - This enables algorithms that use this category of iterators to use multiple copies of an iterator to pass more than once by the same iterator values.
+  - All bidirectional and random-access iterators are also valid forward iterators.
+  - These properties are the same as those of bidirectional iterators, except that forward iterators only support being incremented (but not decreased).
+  - **Properties:**
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img6.png" height="200" width="600"/>
+
 - ### [Bi-directional Iterator](#bi-directional)
+  - Bidirectional iterators are iterators that can be used to access the sequence of elements in a range in both directions (towards the end and towards the beginning).
+  - All random-access iterators are also valid bidirectional iterators.
+  - **Properties:**
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img7.png" height="200" width="600"/>
+
 - ### [Random-access Iterator](#random-access)
+  - Random-access iterators are iterators that can be used to access elements at an arbitrary offset position relative to the element they point to, offering the same functionality as pointers.
+  - Random-access iterators are the most complete iterators in terms of functionality. 
+  - All pointer types are also valid random-access iterators.
+  - **Properties:**
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img9.png" height="200" width="600"/>
+
 - ### [Output Iterator](#output)
+  - Output iterators are iterators that can be used in sequential output operations, where each element pointed by the iterator is written a value only once and then the iterator is incremented.
+  - All forward, bidirectional and random-access iterators that are not constant iterators are also valid output iterators.
+  - Algorithms requiring output iterators should be single-pass output algorithms: each iterator position is dereferenced once at most.
+  - **Properties:**
+  <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img8.png" height="200" width="600"/>
+  
