@@ -137,3 +137,32 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
   - **Properties:**
   <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img9.png" height="200" width="600"/>
   
+ - ### [Iterator Operations](#iterator-operations)
+    - **advance**
+      - Advances the iterator it by n element positions.
+      - If it is a random-access iterator, the function uses just once operator+ or operator-. Otherwise, the function uses repeatedly the increase or decrease operator (operator++ or operator--) until n elements have been advanced.
+      <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img10.png" height="300" width="600"/>
+    - **distance**
+      - Return distance between iterators
+      - Calculates the number of elements between first and last.
+      <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img11.png" height="300" width="600"/>
+    - **begin**
+      - Iterator to beginning
+      - Returns an iterator pointing to the first element in the sequence:
+      - (1) Container: The function returns cont.begin().
+      - (2) Array: The function returns the array-to-pointer conversion of its argument.
+      - If the sequence is empty, the returned value shall not be dereferenced.
+      - These function templates are defined in multiple headers: Each of these headers includes the generic templates for all container and array types and not simply a specific overload. 
+       - The headers are: `<iterator>`, `<array>`, `<deque>`, `<forward_list>`, `<list>`, `map`, `<regex>`, `<set>`, `<string>`, `<unordered_map>`, `<unordered_set>` and `<vector>`.
+      - Conversely, begin is overloaded (with a different definition) in headers `<initializer_list>` and `<valarray>`.
+      <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img12.png" height="350" width="600"/>
+    - **end**
+      - Same as **begin**.
+    - **prev**
+      - Get iterator to previous element
+      - Returns an iterator pointing to the element that *it* would be pointing to if advanced -n positions
+      <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img13.png" height="300" width="600"/>
+    - **next**
+      - Returns an iterator pointing to the element that *it* would be pointing to if advanced n positions.
+      - *it* is not modified.
+      <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img14.png" height="300" width="500"/>
