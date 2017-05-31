@@ -166,3 +166,27 @@ It provides four components called [algorithms](#algorithms), [containers](#cont
       - Returns an iterator pointing to the element that *it* would be pointing to if advanced n positions.
       - *it* is not modified.
       <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img14.png" height="300" width="500"/>
+- ### [Iterator Generator](#iterator-generator)
+  - **back-inserter**
+    - Construct back insert iterator
+    - Constructs a back-insert iterator that inserts new elements at the end of `x`.
+    - A back-insert iterator is a special type of output iterator designed to allow algorithms that usually overwrite elements (such as copy) to instead insert new elements automatically at the end of the container.
+    - The type of `x` needs to have a push_back member function (such as the standard containers vector, deque and list).
+    - Using the assignment operator on the returned iterator (either dereferenced or not), causes the container to expand by one element, which is initialized to the value assigned.
+    <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img15.png" height="350" width="600"/>
+
+  - **front-inserter**
+    - Constructs front insert iterator
+    - Constructs a front-insert iterator that inserts new elements at the beginning of x.
+    - A front-insert interator is a special type of output iterator designed to allow algorithms that usually overwrite elements (such as copy) to instead insert new elements automatically at the beginning of the container.
+    - The type of x needs to have a push_front member function (such as the standard containers deque and list).
+    - Using the assignment operator on the returned iterator (either dereferenced or not), causes the container to expand by one element, which is initialized to the value assigned.
+    <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img16.png" height="300" width="500"/>
+    
+  - **inserter**
+    - Construct insert iterator
+    - Constructs an insert iterator that inserts new elements into x in successive locations starting at the position pointed by it.
+    - An insert interator is a special type of output iterator designed to allow algorithms that usually overwrite elements (such as copy) to instead insert new elements automatically at a specific position in the container.
+    - The type of x needs to have an insert member function (such as most standard containers).
+    - Using the assignment operator on the returned iterator (either dereferenced or not), causes insert to be called on the container, attempting to insert one element at the current insert position with the value assigned. This effectively expands the container by one element when successful.
+    <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img17.png" height="350" width="600"/>
