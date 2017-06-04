@@ -15,6 +15,40 @@
 |Misc|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc2.cpp)|Solving random easy problem to get the hang of using STL to solve problems. *Confirmed that the solution posted by me is correct as per the editorial.*|
 |Misc|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc3.cpp)|Solving random easy problem to get the hang of using STL to solve problems.|
 |Misc/STL|[Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc4.cpp)|Excellent problem to check and understand the usage of set.|
-|STL||||||
-|STL||||||
-|STL||||||
+|Unknown|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)|Medium||||
+|Unknown|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)|Medium||||
+|Unknown|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)|Medium||||
+|Unknown|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)|Medium||||
+|Unknown|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation)|Medium||||
+|Unknown|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)|Medium||||
+|Unknown|[Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)|Medium||||
+|Unknown|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array)|Medium||||
+|Unknown|[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)|Medium||||
+|Unknown|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)|Hard||||
+|Strings|[Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)|Hard||||
+|Strings|[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)|Medium||||
+|Strings|[Richie Rich](https://www.hackerrank.com/challenges/richie-rich)|Medium||||
+|Strings|[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)|Medium||||
+|Strings|[Common Child](https://www.hackerrank.com/challenges/common-child)|Hard||||
+|Strings|[Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene)|Medium||||
+|Strings|[Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string)|Expert||||
+|Strings|[Count Strings](https://www.hackerrank.com/challenges/count-strings)|Hard||||
+|Strings|[String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation)|Advanced||||
+|Strings|[Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes)|Advanced||||
+|Strings|[Build a String](https://www.hackerrank.com/challenges/build-a-string)|Hard||||
+|Strings|[Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)|Hard||||
+|Strings|[Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string)|Advanced||||
+|Strings|[String Similarity](https://www.hackerrank.com/challenges/string-similarity)|Expert||||
+|Strings|[Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)|Advanced||||
+|Strings|[Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes)|Advanced||||
+|Strings|[Similar Strings](https://www.hackerrank.com/challenges/similar-strings)|Advanced||||
+|Strings|[Save Humanity](https://www.hackerrank.com/challenges/save-humanity)|Expert||||
+|Strings|[Find Strings](https://www.hackerrank.com/challenges/find-strings)|Expert||||
+|Strings|[Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border)|Expert||||
+|Strings|[Two Two](https://www.hackerrank.com/challenges/two-two)|Advanced||||
+|Strings|[Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game)|Expert||||
+|Strings|[Letter Islands](https://www.hackerrank.com/challenges/letter-islands)|Expert||||
+|Strings|[Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)|Expert||||
+|Strings|[How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings)|Expert||||
+|Strings||||||
+
