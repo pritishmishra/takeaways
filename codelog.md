@@ -16,6 +16,7 @@
 |Misc|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc3.cpp)|Solving random easy problem to get the hang of using STL to solve problems.|
 |Misc/STL|[Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc4.cpp)|Excellent problem to check and understand the usage of set.|
 |Misc|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc5.cpp)|Implementation of Circular array rotation using vector.|
+|Misc|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)|Easy|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc6.cpp)|If you need to find the index of an element in an operation, use find algo on vector. (set.find() doesn't help much!)|
 |Unknown|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)|Medium||||
 |Unknown|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)|Medium||||
 |Unknown|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)|Medium||||
