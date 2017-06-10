@@ -195,5 +195,16 @@
 |Constr Algo|[Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)|Expert||||
 |Constr Algo|[Lovely Triplets](https://www.hackerrank.com/challenges/lovely-triplets)|Advanced||||
 |Constr Algo|[Array Construction](https://www.hackerrank.com/challenges/array-construction)|Advanced||||
+|Recursion|[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum)|Medium||||
+|Recursion|[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle)|Medium||||
+|Recursion|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)|Medium||||
+|Recursion|[Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine)|Medium||||
+|Recursion|[Password Cracker](https://www.hackerrank.com/challenges/password-cracker)|Medium||||
+|Recursion|[Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions)|Hard||||
+|Recursion|[Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2)|Medium||||
+|Recursion|[K Factorization](https://www.hackerrank.com/challenges/k-factorization)|Hard||||
+|Recursion|[Bowling Pins](https://www.hackerrank.com/challenges/bowling-pins)|Advanced||||
+|Recursion|[Simplified Chess Engine II](https://www.hackerrank.com/challenges/simplified-chess-engine-ii)|Hard||||
+|Recursion|[Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums)|Advanced||||
 |Greedy||||||
 
