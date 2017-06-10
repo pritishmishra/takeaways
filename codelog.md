@@ -88,5 +88,15 @@
 |Greedy|[Team Formation](https://www.hackerrank.com/challenges/team-formation)|Advanced||||
 |Greedy|[Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)|Hard||||
 |Dynamic Prog|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard||||
+|Dynamic Prog|[Equal](https://www.hackerrank.com/challenges/equal)|Medium||||
+|Dynamic Prog|[Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)|Medium||||
+|Dynamic Prog|[Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)|Medium||||
+|Dynamic Prog|[Candies][https://www.hackerrank.com/challenges/candies]|Medium||||
+|Dynamic Prog|[Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)|Medium||||
+|Dynamic Prog|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium||||
+|Dynamic Prog|[Abbreviation](https://www.hackerrank.com/challenges/abbr)|Medium||||
+|Dynamic Prog|[Prime XOR](https://www.hackerrank.com/challenges/prime-xor)|Medium||||
+|Dynamic Prog|[Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)|Hard||||
+|Dynamic Prog|[Fair Cut](https://www.hackerrank.com/challenges/fair-cut)|Medium||||
 |Greedy||||||
 
