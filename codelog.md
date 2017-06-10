@@ -52,5 +52,55 @@
 |Strings|[Letter Islands](https://www.hackerrank.com/challenges/letter-islands)|Expert||||
 |Strings|[Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)|Expert||||
 |Strings|[How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings)|Expert||||
-|Strings||||||
+|Sorting|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)|Medium||||
+|Sorting|[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)|Advanced||||
+|Sorting|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)|Medium||||
+|Sorting|[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)|Medium||||
+|Searching|[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)|Medium||||
+|Searching|[Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)|Medium||||
+|Searching|[KnightL On Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)|Medium||||
+|Searching|[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)|Medium||||
+|Searching|[Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)|Hard||||
+|Searching|[Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)|Medium||||
+|Searching|[Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)|Medium||||
+|Searching|[Maximizing Mission Points](https://www.hackerrank.com/challenges/maximizing-mission-points)|Hard||||
+|Searching|[Count Luck](https://www.hackerrank.com/challenges/count-luck)|Medium||||
+|Searching|[Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)|Medium||||
+|Searching|[Making Candies](https://www.hackerrank.com/challenges/making-candies)|Hard||||
+|Searching|[Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena)|Medium||||
+|Searching|[Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)|Medium||||
+|Searching|[Bike Racers](https://www.hackerrank.com/challenges/bike-racers)|Hard||||
+|Searching|[Task Scheduling](https://www.hackerrank.com/challenges/task-scheduling)|Advanced||||
+|Searching|[Similar Pair](https://www.hackerrank.com/challenges/similarpair)|Advanced||||
+|Searching|[Absolute Element Sums](https://www.hackerrank.com/challenges/playing-with-numbers)|Hard||||
+|Searching|[Almost Integer Rock Garden](https://www.hackerrank.com/challenges/almost-integer-rock-garden)|Expert||||
+|Searching|[Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)|Hard||||
+|Searching|[Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs)|Expert||||
+|Searching|[King Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights)|Hard||||
+|Greedy|[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)|Medium||||
+|Greedy|[Max Min](https://www.hackerrank.com/challenges/angry-children)|Medium||||
+|Greedy|[Cutting Boards](https://www.hackerrank.com/challenges/board-cutting)|Hard||||
+|Greedy|[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge)|Advanced||||
+|Greedy|[Goodland Electricity](https://www.hackerrank.com/challenges/pylons)|Medium||||
+|Greedy|[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)|Hard||||
+|Greedy|[Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax)|Hard||||
+|Greedy|[Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)|Hard||||
+|Greedy|[Team Formation](https://www.hackerrank.com/challenges/team-formation)|Advanced||||
+|Greedy|[Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)|Hard||||
+|Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard||||
+|Dynamic Programming|[Equal](https://www.hackerrank.com/challenges/equal)|Medium||||
+|Dynamic Programming|[Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)|Medium||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Dynamic Programming||||||
+|Greedy||||||
+
 
