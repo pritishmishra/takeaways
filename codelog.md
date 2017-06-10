@@ -87,70 +87,113 @@
 |Greedy|[Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)|Hard||||
 |Greedy|[Team Formation](https://www.hackerrank.com/challenges/team-formation)|Advanced||||
 |Greedy|[Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)|Hard||||
-|Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard||||
-|Dynamic Programming|[Equal](https://www.hackerrank.com/challenges/equal)|Medium||||
-|Dynamic Programming|[Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)|Medium||||
-|Dynamic Programming|[Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)|Medium||||
-|Dynamic Programming|[Candies][https://www.hackerrank.com/challenges/candies]|Medium||||
-|Dynamic Programming|[Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)|Medium||||
-|Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium||||
-|Dynamic Programming|[Abbreviation](https://www.hackerrank.com/challenges/abbr)|Medium||||
-|Dynamic Programming|[Prime XOR](https://www.hackerrank.com/challenges/prime-xor)|Medium||||
-|Dynamic Programming|[Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)|Hard||||
-|Dynamic Programming|[Fair Cut](https://www.hackerrank.com/challenges/fair-cut)|Medium||||
-|Dynamic Programming|[The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)|Medium||||
-|Dynamic Programming|[Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2)|Hard||||
-|Dynamic Programming|[Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)|Hard||||
-|Dynamic Programming|[Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums)|Medium||||
-|Dynamic Programming|[HackerRank City](https://www.hackerrank.com/challenges/hr-city)|Medium||||
-|Dynamic Programming|[Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)|Medium||||
-|Dynamic Programming|[Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)|Medium||||
-|Dynamic Programming|[Substring Diff](https://www.hackerrank.com/challenges/substring-diff)|Medium||||
-|Dynamic Programming|[Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum)|Medium||||
-|Dynamic Programming|[Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)|Medium||||
-|Dynamic Programming|[Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling)|Hard||||
-|Dynamic Programming|[Alien Languages](https://www.hackerrank.com/challenges/alien-languages)|Hard||||
-|Dynamic Programming|[Stock Maximize](https://www.hackerrank.com/challenges/stockmax)|Medium||||
-|Dynamic Programming|[Two Robots](https://www.hackerrank.com/challenges/two-robots)|Medium||||
-|Dynamic Programming|[Cut Tree](https://www.hackerrank.com/challenges/cuttree)|Medium||||
-|Dynamic Programming|[Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations)|Hard||||
-|Dynamic Programming|[Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)|Medium||||
-|Dynamic Programming|[Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting)|Medium||||
-|Dynamic Programming|[Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls)|Hard||||
-|Dynamic Programming|[Mandragora Forest](https://www.hackerrank.com/challenges/mandragora)|Medium||||
-|Dynamic Programming|[Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back)|Medium||||
-|Dynamic Programming|[LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs)|Medium||||
-|Dynamic Programming|[Grid Walking](https://www.hackerrank.com/challenges/grid-walking)|Medium||||
-|Dynamic Programming|[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)|Medium||||
-|Dynamic Programming|[Bricks Game](https://www.hackerrank.com/challenges/play-game)|Medium||||
-|Dynamic Programming|[The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)|Advanced||||
-|Dynamic Programming|[Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)|Medium||||
-|Dynamic Programming|[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)|Medium||||
-|Dynamic Programming|[Play with words](https://www.hackerrank.com/challenges/strplay)|Medium||||
-|Dynamic Programming|[Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1)|Hard||||
-|Dynamic Programming|[Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes)|Medium||||
-|Dynamic Programming|[Interval Selection](https://www.hackerrank.com/challenges/interval-selection)|Medium||||
-|Dynamic Programming|[String Reduction](https://www.hackerrank.com/challenges/string-reduction)|Hard||||
-|Dynamic Programming|[Far Vertices](https://www.hackerrank.com/challenges/far-vertices)|Hard||||
-|Dynamic Programming|[Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks)|Expert||||
-|Dynamic Programming|[Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali)|Hard||||
-|Dynamic Programming|[Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid)|Hard||||
-|Dynamic Programming|[Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)|Hard||||
-|Dynamic Programming|[Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings)|Advanced||||
-|Dynamic Programming|[Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane)|Advanced||||
-|Dynamic Programming|[Turn Off the Lights](https://www.hackerrank.com/challenges/turn-off-the-lights)|Hard||||
-|Dynamic Programming|[The Indian Job](https://www.hackerrank.com/challenges/the-indian-job)|Medium||||
-|Dynamic Programming|[Requirement](https://www.hackerrank.com/challenges/requirement)|Advanced||||
-|Dynamic Programming|[A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)|Hard||||
-|Dynamic Programming|[Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path)|Hard||||
-|Dynamic Programming|[Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance)|Hard||||
-|Dynamic Programming|[Billboards](https://www.hackerrank.com/challenges/billboards)|Advanced||||
-|Dynamic Programming|[Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string)|Hard||||
-|Dynamic Programming|[Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains)|Hard||||
-|Dynamic Programming|[GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)|Hard||||
-|Dynamic Programming|[Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess)|Advanced||||
-|Dynamic Programming|[Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation)|Expert||||
-|Dynamic Programming|[New Year Present](https://www.hackerrank.com/challenges/newyear-present)|Hard||||
-|Dynamic Programming|[Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world)|Medium||||
-|Dynamic Programming|[Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)|Hard||||
+|Dynamic Prog|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard||||
+|Dynamic Prog|[Equal](https://www.hackerrank.com/challenges/equal)|Medium||||
+|Dynamic Prog|[Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)|Medium||||
+|Dynamic Prog|[Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)|Medium||||
+|Dynamic Prog|[Candies][https://www.hackerrank.com/challenges/candies]|Medium||||
+|Dynamic Prog|[Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)|Medium||||
+|Dynamic Prog|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium||||
+|Dynamic Prog|[Abbreviation](https://www.hackerrank.com/challenges/abbr)|Medium||||
+|Dynamic Prog|[Prime XOR](https://www.hackerrank.com/challenges/prime-xor)|Medium||||
+|Dynamic Prog|[Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)|Hard||||
+|Dynamic Prog|[Fair Cut](https://www.hackerrank.com/challenges/fair-cut)|Medium||||
+|Dynamic Prog|[The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)|Medium||||
+|Dynamic Prog|[Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2)|Hard||||
+|Dynamic Prog|[Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)|Hard||||
+|Dynamic Prog|[Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums)|Medium||||
+|Dynamic Prog|[HackerRank City](https://www.hackerrank.com/challenges/hr-city)|Medium||||
+|Dynamic Prog|[Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)|Medium||||
+|Dynamic Prog|[Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)|Medium||||
+|Dynamic Prog|[Substring Diff](https://www.hackerrank.com/challenges/substring-diff)|Medium||||
+|Dynamic Prog|[Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum)|Medium||||
+|Dynamic Prog|[Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)|Medium||||
+|Dynamic Prog|[Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling)|Hard||||
+|Dynamic Prog|[Alien Languages](https://www.hackerrank.com/challenges/alien-languages)|Hard||||
+|Dynamic Prog|[Stock Maximize](https://www.hackerrank.com/challenges/stockmax)|Medium||||
+|Dynamic Prog|[Two Robots](https://www.hackerrank.com/challenges/two-robots)|Medium||||
+|Dynamic Prog|[Cut Tree](https://www.hackerrank.com/challenges/cuttree)|Medium||||
+|Dynamic Prog|[Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations)|Hard||||
+|Dynamic Prog|[Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)|Medium||||
+|Dynamic Prog|[Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting)|Medium||||
+|Dynamic Prog|[Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls)|Hard||||
+|Dynamic Prog|[Mandragora Forest](https://www.hackerrank.com/challenges/mandragora)|Medium||||
+|Dynamic Prog|[Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back)|Medium||||
+|Dynamic Prog|[LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs)|Medium||||
+|Dynamic Prog|[Grid Walking](https://www.hackerrank.com/challenges/grid-walking)|Medium||||
+|Dynamic Prog|[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)|Medium||||
+|Dynamic Prog|[Bricks Game](https://www.hackerrank.com/challenges/play-game)|Medium||||
+|Dynamic Prog|[The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)|Advanced||||
+|Dynamic Prog|[Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)|Medium||||
+|Dynamic Prog|[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)|Medium||||
+|Dynamic Prog|[Play with words](https://www.hackerrank.com/challenges/strplay)|Medium||||
+|Dynamic Prog|[Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1)|Hard||||
+|Dynamic Prog|[Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes)|Medium||||
+|Dynamic Prog|[Interval Selection](https://www.hackerrank.com/challenges/interval-selection)|Medium||||
+|Dynamic Prog|[String Reduction](https://www.hackerrank.com/challenges/string-reduction)|Hard||||
+|Dynamic Prog|[Far Vertices](https://www.hackerrank.com/challenges/far-vertices)|Hard||||
+|Dynamic Prog|[Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks)|Expert||||
+|Dynamic Prog|[Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali)|Hard||||
+|Dynamic Prog|[Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid)|Hard||||
+|Dynamic Prog|[Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)|Hard||||
+|Dynamic Prog|[Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings)|Advanced||||
+|Dynamic Prog|[Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane)|Advanced||||
+|Dynamic Prog|[Turn Off the Lights](https://www.hackerrank.com/challenges/turn-off-the-lights)|Hard||||
+|Dynamic Prog|[The Indian Job](https://www.hackerrank.com/challenges/the-indian-job)|Medium||||
+|Dynamic Prog|[Requirement](https://www.hackerrank.com/challenges/requirement)|Advanced||||
+|Dynamic Prog|[A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)|Hard||||
+|Dynamic Prog|[Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path)|Hard||||
+|Dynamic Prog|[Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance)|Hard||||
+|Dynamic Prog|[Billboards](https://www.hackerrank.com/challenges/billboards)|Advanced||||
+|Dynamic Prog|[Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string)|Hard||||
+|Dynamic Prog|[Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains)|Hard||||
+|Dynamic Prog|[GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)|Hard||||
+|Dynamic Prog|[Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess)|Advanced||||
+|Dynamic Prog|[Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation)|Expert||||
+|Dynamic Prog|[New Year Present](https://www.hackerrank.com/challenges/newyear-present)|Hard||||
+|Dynamic Prog|[Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world)|Medium||||
+|Dynamic Prog|[Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)|Hard||||
+|Dynamic Prog|[Candles Counting](https://www.hackerrank.com/challenges/candles-2)|Medium||||
+|Dynamic Prog|[Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings)|Advanced||||
+|Dynamic Prog|[Swap Permutation](https://www.hackerrank.com/challenges/swappermutation)|Medium||||
+|Dynamic Prog|[Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations)|Medium||||
+|Dynamic Prog|[Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences)|Hard||||
+|Dynamic Prog|[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief)|Advanced||||
+|Dynamic Prog|[Mining](https://www.hackerrank.com/challenges/mining)|Advanced||||
+|Dynamic Prog|[Police Operation](https://www.hackerrank.com/challenges/police-operation)|Hard||||
+|Dynamic Prog|[Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela)|Hard||||
+|Dynamic Prog|[Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence)|Advanced||||
+|Dynamic Prog|[Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path)|Hard||||
+|Dynamic Prog|[P-sequences](https://www.hackerrank.com/challenges/p-sequences)|Hard||||
+|Dynamic Prog|[Robot](https://www.hackerrank.com/challenges/robot)|Advanced||||
+|Dynamic Prog|[Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers)|Expert||||
+|Dynamic Prog|[Unfair Game](https://www.hackerrank.com/challenges/unfair-game)|Advanced||||
+|Dynamic Prog|[Oil Well](https://www.hackerrank.com/challenges/oil-well)|Hard||||
+|Dynamic Prog|[Find the Seed](https://www.hackerrank.com/challenges/find-the-seed)|Advanced||||
+|Dynamic Prog|[The Blacklist](https://www.hackerrank.com/challenges/the-blacklist)|Advanced||||
+|Dynamic Prog|[Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning)|Advanced||||
+|Dynamic Prog|[Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos)|Hard||||
+|Dynamic Prog|[Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards)|Expert||||
+|Dynamic Prog|[Vim War](https://www.hackerrank.com/challenges/vim-war)|Advanced||||
+|Dynamic Prog|[Best spot](https://www.hackerrank.com/challenges/best-spot)|Advanced||||
+|Dynamic Prog|[Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers)|Expert||||
+|Dynamic Prog|[Unique Divide And Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer)|Advanced||||
+|Dynamic Prog|[King and Four Sons](https://www.hackerrank.com/challenges/happy-king)|Expert||||
+|Dynamic Prog|[Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma)|Advanced||||
+|Dynamic Prog|[Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis)|Advanced||||
+|Dynamic Prog|[Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1)|Expert||||
+|Dynamic Prog|[Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks)|Expert||||
+|Dynamic Prog|[Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate)|Expert||||
+|Constr Algo|[Lena Sort](https://www.hackerrank.com/challenges/lena-sort)|Medium||||
+|Constr Algo|[Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)|Medium||||
+|Constr Algo|[Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1)|Medium||||
+|Constr Algo|[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos)|Medium||||
+|Constr Algo|[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle)|Medium||||
+|Constr Algo|[Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem)|Hard||||
+|Constr Algo|[Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set)|Hard||||
+|Constr Algo|[Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq)|Hard||||
+|Constr Algo|[Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)|Expert||||
+|Constr Algo|[Lovely Triplets](https://www.hackerrank.com/challenges/lovely-triplets)|Advanced||||
+|Constr Algo|[Array Construction](https://www.hackerrank.com/challenges/array-construction)|Advanced||||
+|Greedy||||||
 
