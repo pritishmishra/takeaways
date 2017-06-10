@@ -153,47 +153,4 @@
 |Dynamic Programming|[New Year Present](https://www.hackerrank.com/challenges/newyear-present)|Hard||||
 |Dynamic Programming|[Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world)|Medium||||
 |Dynamic Programming|[Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)|Hard||||
-|Dynamic Programming|[Candles Counting](https://www.hackerrank.com/challenges/candles-2)|Medium||||
-|Dynamic Programming|[Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings)|Advanced||||
-|Dynamic Programming|[Swap Permutation](https://www.hackerrank.com/challenges/swappermutation)|Medium||||
-|Dynamic Programming|[Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations)|Medium||||
-|Dynamic Programming|[Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences)|Hard||||
-|Dynamic Programming|[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief)|Advanced||||
-|Dynamic Programming|[Mining](https://www.hackerrank.com/challenges/mining)|Advanced||||
-|Dynamic Programming|[Police Operation](https://www.hackerrank.com/challenges/police-operation)|Hard||||
-|Dynamic Programming|[Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela)|Hard||||
-|Dynamic Programming|[Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence)|Advanced||||
-|Dynamic Programming|[Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path)|Hard||||
-|Dynamic Programming|[P-sequences](https://www.hackerrank.com/challenges/p-sequences)|Hard||||
-|Dynamic Programming|[Robot](https://www.hackerrank.com/challenges/robot)|Advanced||||
-|Dynamic Programming|[Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers)|Expert||||
-|Dynamic Programming|[Unfair Game](https://www.hackerrank.com/challenges/unfair-game)|Advanced||||
-|Dynamic Programming|[Oil Well](https://www.hackerrank.com/challenges/oil-well)|Hard||||
-|Dynamic Programming|[Find the Seed](https://www.hackerrank.com/challenges/find-the-seed)|Advanced||||
-|Dynamic Programming|[The Blacklist](https://www.hackerrank.com/challenges/the-blacklist)|Advanced||||
-|Dynamic Programming|[Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning)|Advanced||||
-|Dynamic Programming|[Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos)|Hard||||
-|Dynamic Programming|[Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards)|Expert||||
-|Dynamic Programming|[Vim War](https://www.hackerrank.com/challenges/vim-war)|Advanced||||
-|Dynamic Programming|[Best spot](https://www.hackerrank.com/challenges/best-spot)|Advanced||||
-|Dynamic Programming|[Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers)|Expert||||
-|Dynamic Programming|[Unique Divide And Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer)|Advanced||||
-|Dynamic Programming|[King and Four Sons](https://www.hackerrank.com/challenges/happy-king)|Expert||||
-|Dynamic Programming|[Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma)|Advanced||||
-|Dynamic Programming|[Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis)|Advanced||||
-|Dynamic Programming|[Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1)|Expert||||
-|Dynamic Programming|[Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks)|Expert||||
-|Dynamic Programming|[Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate)|Expert||||
-|Constructive Algorithm|[Lena Sort](https://www.hackerrank.com/challenges/lena-sort)|Medium||||
-|Constructive Algorithm|[Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)|Medium||||
-|Constructive Algorithm|[Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1)|Medium||||
-|Constructive Algorithm|[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos)|Medium||||
-|Constructive Algorithm|[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle)|Medium||||
-|Constructive Algorithm|[Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem)|Hard||||
-|Constructive Algorithm|[Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set)|Hard||||
-|Constructive Algorithm|[Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq)|Hard||||
-|Constructive Algorithm|[Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)|Expert||||
-|Constructive Algorithm|[Lovely Triplets](https://www.hackerrank.com/challenges/lovely-triplets)|Advanced||||
-|Constructive Algorithm|[Array Construction](https://www.hackerrank.com/challenges/array-construction)|Advanced||||
-|Greedy||||||
 
