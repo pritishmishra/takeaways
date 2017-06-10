@@ -87,5 +87,6 @@
 |Greedy|[Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)|Hard||||
 |Greedy|[Team Formation](https://www.hackerrank.com/challenges/team-formation)|Advanced||||
 |Greedy|[Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)|Hard||||
+|Dynamic Prog|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard||||
 |Greedy||||||
 
