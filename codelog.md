@@ -21,7 +21,7 @@
 |Misc|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)|Medium|Partially Solved(12/20)|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc8.cpp)/[Editorial](https://www.hackerrank.com/challenges/queens-attack-2/editorial)|Solved using vector 2-D array, memory space went out of bounds, can be solved only by map of pairs. Approach remains same.|
 |Misc/Maths|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)|Medium|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/misc9.cpp)|Logic is very simple. But it didn't strike me! Classic example of how powerful simple maths is.|
 |Unknown|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)|Medium||||
-|Unknown|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation)|Medium||||
+|Maths|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation)|Medium|Solved|[Code](https://github.com/pritishmishra/takeaways/blob/master/codefiles/math1.cpp)|Logic used by me is same as suggested by the editorial.|
 |Unknown|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)|Medium||||
 |Unknown|[Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)|Medium||||
 |Unknown|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array)|Medium||||
