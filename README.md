@@ -1,5 +1,9 @@
 # takeaways
 
+# Machine Learning
+
+- The ability to introspect on and manage your own thought processes is known as metacognition.
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
