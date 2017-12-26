@@ -3,6 +3,7 @@
 # Machine Learning
 
 - The ability to introspect on and manage your own thought processes is known as metacognition.
+- **Parallel Reading:** read two different (possibly unrelated) things in parallel. Read a few paragraphs of one, then a few paragraphs of the other, and so on. Each time you switch, try to recall what the previous stretch of text was about. Switching forces it out of your working memory (the kind that stores words and images for short times). Therefore, you find out whether the material actually made it into your long-term memory.
 
 # Netflix TechBlog
 
