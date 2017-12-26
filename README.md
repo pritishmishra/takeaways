@@ -5,6 +5,17 @@
 - The ability to introspect on and manage your own thought processes is known as metacognition.
 - **Parallel Reading:** read two different (possibly unrelated) things in parallel. Read a few paragraphs of one, then a few paragraphs of the other, and so on. Each time you switch, try to recall what the previous stretch of text was about. Switching forces it out of your working memory (the kind that stores words and images for short times). Therefore, you find out whether the material actually made it into your long-term memory.
 
+
+### Understanding Softmax
+- Article: https://rasbt.github.io/mlxtend/user_guide/classifier/SoftmaxRegression/
+- I wanted to document 3 major things here which helped me understand.
+- I am referring to the analogies as in article: https://jalammar.github.io/visual-interactive-guide-basics-neural-networks
+- Classes: Here classes 0, 1, 2 can be thought of as the output you are expecting from your function. e.g. Good, Bad as in the house example in 2nd article.
+- Features: Here features of the dataset can be thought of as 'Price per sq. ft.' and 'No. of bathrooms' as in 2nd article.
+- Bias: You need one bias for every class that you have.
+- So while building the function, each dataset will have 2 features. As there are 4 datasets, thus, it is 4x2 matrix. You can consider dataset as a single sample, which is just like '$250 per sq. ft' and '3 bathrooms'. You have to predict 'Good', 'Medium', 'Bad'.
+- For undestanding weight matrix, just go through the 2nd article once. Notice the first example. Let's say you are predicting a class for one feature and one bias. So, c = wx + b. Now we have 3 classes. So we will need 3 w's. We also have 2 features. So we will need 3 w's per feature. So, here we have 2x3 matrix. 2 rows for each feature, 3 columns for each class.
+- Similarly, We will need 3 bias
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
