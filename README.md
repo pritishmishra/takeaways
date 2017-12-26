@@ -15,7 +15,9 @@
 - Bias: You need one bias for every class that you have.
 - So while building the function, each dataset will have 2 features. As there are 4 datasets, thus, it is 4x2 matrix. You can consider dataset as a single sample, which is just like '$250 per sq. ft' and '3 bathrooms'. You have to predict 'Good', 'Medium', 'Bad'.
 - For undestanding weight matrix, just go through the 2nd article once. Notice the first example. Let's say you are predicting a class for one feature and one bias. So, c = wx + b. Now we have 3 classes. So we will need 3 w's. We also have 2 features. So we will need 3 w's per feature. So, here we have 2x3 matrix. 2 rows for each feature, 3 columns for each class.
-- Similarly, We will need 3 bias
+- Similarly, We will need 3 bias for each class.
+- My prime objective was to understand the model. Rest of it is gradient descent model and how, upon running large no of iterations, we come to a normalised score and it helps us to predict the sample into the resultant class.
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
