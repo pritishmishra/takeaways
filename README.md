@@ -18,6 +18,15 @@
 - Similarly, We will need 3 bias for each class.
 - My prime objective was to understand the model. Rest of it is gradient descent model and how, upon running large no of iterations, we come to a normalised score and it helps us to predict the sample into the resultant class.
 
+### Machine Learning course by Andrew Ng on Coursera:
+- Link: https://www.coursera.org/learn/machine-learning
+
+#### Supervised vs Unsupervised Learning:
+- **Supervised Learning:**
+- Supervised learning is the machine learning task of inferring a function from labeled training data. The training data consist of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples.
+- **Unsupervised Learning:**
+- Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from "unlabeled" data (a classification or categorization is not included in the observations). Since the examples given to the learner are unlabeled, there is no evaluation of the accuracy of the structure that is output by the relevant algorithm—which is one way of distinguishing unsupervised learning from supervised learning and reinforcement learning.
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
