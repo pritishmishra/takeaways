@@ -40,6 +40,10 @@
 #### Gradient Descent:
 Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/master/gradient_descent.md
 
+#### Linear Algebra:
+This section provides a refresher on the mathematical terms/derivations which we are going to use for various ML algorithms.
+Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/master/linear_algebra.md
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
