@@ -6,6 +6,8 @@ Imagine that we graph our hypothesis function based on its fields θ0 and θ1 (a
 
 We put θ0 on the x axis and θ1 on the y axis, with the cost function on the vertical z axis. The points on our graph will be the result of the cost function using our hypothesis with those specific theta parameters. The graph below depicts such a setup.
 
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img19.png" height="200" width="300"/>
+
 We will know that we have succeeded when our cost function is at the very bottom of the pits in our graph, i.e. when its value is the minimum. The red arrows show the minimum points in the graph.
 
 The way we do this is by taking the derivative (the tangential line to a function) of our cost function. The slope of the tangent is the derivative at that point and it will give us a direction to move towards. We make steps down the cost function in the direction with the steepest descent. The size of each step is determined by the parameter α, which is called the learning rate.
@@ -15,9 +17,11 @@ For example, the distance between each 'star' in the graph above represents a st
 The gradient descent algorithm is:
 
 repeat until convergence:
-
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img20.png"/>
 
 where
 
 j=0,1 represents the feature index number.
+
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img21.png" />
 
