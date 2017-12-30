@@ -37,6 +37,9 @@
 #### Cost Function:
 <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img18.png" height="500" width="700"/>
 
+#### Gradient Descent:
+Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/master/gradient_descent.md
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
