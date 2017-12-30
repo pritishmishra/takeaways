@@ -50,13 +50,13 @@ The intuition behind the convergence is that the derivative approaches 0 as we a
 
 When specifically applied to the case of linear regression, a new form of the gradient descent equation can be derived. We can substitute our actual cost function and our actual hypothesis function and modify the equation to :
 
-<Placeholder for image>
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img25.png"/>
 
 where m is the size of the training set, θ0 a constant that will be changing simultaneously with θ1 and xi,yiare values of the given training set (data).
 
 Note that we have separated out the two cases for θj into separate equations for θ0 and θ1; and that for θ1 we are multiplying xi at the end due to the derivative. The following is a derivation  for a single example :
 
-<Placeholder for image>
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img26.png" height="200" width="300"/>
 
 The point of all this is that if we start with a guess for our hypothesis and then repeatedly apply these gradient descent equations, our hypothesis will become more and more accurate.
 
