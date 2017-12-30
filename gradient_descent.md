@@ -25,3 +25,23 @@ j=0,1 represents the feature index number.
 
 <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img21.png" />
 
+
+# Gradient Descent Intuition
+
+We use one parameter θ1 and plot its cost function to implement a gradient descent.
+
+The following graph shows that when the slope is negative, the value of θ1 increases and when it is positive, the value of θ1 decreases.
+
+<Placeholder for image>
+
+On a side note, we should adjust our parameter α to ensure that the gradient descent algorithm converges in a reasonable time. Failure to converge or too much time to obtain the minimum value imply that our step size is wrong.
+
+<Placeholder for image>
+
+### How does gradient descent converge with a fixed step size α?
+
+The intuition behind the convergence is that ddθ1J(θ1) approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:
+
+**θ1:= θ1 − α∗0**
+
+<Placeholder for image>
