@@ -40,7 +40,7 @@ On a side note, we should adjust our parameter α to ensure that the gradient de
 
 ### How does gradient descent converge with a fixed step size α?
 
-The intuition behind the convergence is that ddθ1J(θ1) approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:
+The intuition behind the convergence is that the derivative approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:
 
 **θ1:= θ1 − α∗0**
 
