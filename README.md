@@ -56,6 +56,11 @@ Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/
 - Next up, we try to improve the efficiency of gradient descent.
 - For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
 
+#### Debugging if Gradient descent is working & Choosing a good value of α, learning rate
+- Next up, lets understand how to debug and check if the gradient descent is working.
+- Also we try to understand what is a good choice of value for this learning rate.
+- For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)

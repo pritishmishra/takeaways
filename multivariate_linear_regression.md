@@ -15,3 +15,7 @@ Next up, we try to improve the efficiency of gradient descent.
 # Improving performance of gradient descent: Feature Scaling & Mean Normalization
 
 <img src="https://github.com/pritishmishra/takeaways/blob/master/images/img31.png">
+
+# Debugging if Gradient descent is working & Choosing a good value of α, learning rate
+
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img32.png">
