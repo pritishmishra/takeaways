@@ -44,6 +44,18 @@ Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/
 This section provides a refresher on the mathematical terms/derivations which we are going to use for various ML algorithms.
 Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/master/linear_algebra.md
 
+#### Multiple Features
+- First, let us introduce how we can bring in multiple features into this model.
+- For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
+
+#### Gradient Descent For Multiple Variables
+- Now let us understand how to apply gradient descent for these multiple features.
+- For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
+
+#### Improving performance of gradient descent: Feature Scaling & Mean Normalization
+- Next up, we try to improve the efficiency of gradient descent.
+- For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
