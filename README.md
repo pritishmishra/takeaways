@@ -73,6 +73,10 @@ Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/
 - Lets see how we can analytically solve and determine the minimized values.
 - For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/normal_equation.md
 
+#### Implementation in Octave
+- In this section, we will look at some basic operations performed in octave. Gradually, we will see how we can build a program in octave to solve our ML problems/algorithms.
+- For an octave cheatsheet, refer here: https://github.com/pritishmishra/takeaways/blob/master/octave_cheatsheet.md
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
