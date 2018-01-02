@@ -61,6 +61,18 @@ Please refer to the notes here: https://github.com/pritishmishra/takeaways/blob/
 - Also we try to understand what is a good choice of value for this learning rate.
 - For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
 
+#### Features and Polynomial Regression
+- Next, we can improve our features and the form of our hypothesis function in 2 different ways.
+- 1. Combining multiple features into one.
+- 2. Choosing a polynomial function instead of linear one for our hypothesis.
+- For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/multivariate_linear_regression.md
+
+#### Normal Equation
+- Gradient descent was one way of minimizing the cost function and predicting values.
+- However, that involves running through iterations (sometimes a lot) before arriving at the minimized values.
+- Lets see how we can analytically solve and determine the minimized values.
+- For this section, refer here: https://github.com/pritishmishra/takeaways/blob/master/normal_equation.md
+
 # Netflix TechBlog
 
 ## 5 Lessons to learn if you are using AWS (or any cloud solution)
