@@ -84,7 +84,7 @@ ans =
 octave:20> w = -6 + sqrt(10) * (randn(1, 3000));
 octave:21> hist(w)
 ```
-<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img36.png">
+<img src="https://github.com/pritishmishra/takeaways/blob/master/images/img36.png" height="300" width="300">
 
 ```
 octave:23> eye(4)
@@ -247,4 +247,87 @@ ans =
    2
    4
    6
+```
+
+#### Matrix multiplication
+```
+octave:41> A = [1 2; 3 4]
+A =
+
+   1   2
+   3   4
+
+octave:42> B = [5 6; 7 8]
+B =
+
+   5   6
+   7   8
+
+octave:43> C = A*B
+C =
+
+   19   22
+   43   50
+```
+
+#### Matrix Transpose
+```
+octave:41> A = [1 2; 3 4]
+A =
+
+   1   2
+   3   4
+
+octave:50> A'
+ans =
+
+   1   3
+   2   4
+```
+
+#### Finding max of the matrix
+```
+octave:2> a = [0.1:0.01:0.98];
+octave:3> y = sin(2*pi*4*a);
+octave:5> plot(a,y)
+```
+
+#### For loop
+```
+octave:7> for i=1:10,
+> v(i) = 2 ^ i;
+> end;
+octave:8> v
+v =
+
+      2      4      8     16     32     64    128    256    512   1024
+```
+
+#### While loop
+```
+octave:9> i=1;
+octave:10> while i < 10,
+> v(i) = 2 ^ i;
+> i = i+1;
+> end;
+octave:11> v
+v =
+
+      2      4      8     16     32     64    128    256    512   1024
+```
+
+#### If-else
+```
+octave:14> i = 1;
+octave:15> while i < 100,
+> v(i) = 2 ^ i;
+> i=i+1;
+> if i == 10;
+> break;
+> end;
+> end;
+octave:16> v
+v =
+
+      2      4      8     16     32     64    128    256    512   1024
 ```
